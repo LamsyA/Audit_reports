@@ -1,6 +1,6 @@
 # About Lamsy
 
-**Lamsy** is a professional smart contract security researcher with expertise in auditing smart contracts, specializing in **Solidity** and **Cairo** audits.
+**Lamsy** is a professional smart contract security researcher with expertise in auditing smart contracts.
 
 - Twitter: [@lamsy](https://x.com/lamsyhay)
 - Telegram : [lamsy](https://t.me/lasykay)
