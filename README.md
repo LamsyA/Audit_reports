@@ -7,9 +7,11 @@ I am a professional smart contract security researcher with extensive expertise 
 
 # Private Audits
 
-| Project | Date     | Findings                | Ecosystem | Report       |
-| ------- | -------- | ----------------------- | --------- | ------------ |
-| Melee   | May 2025 | 5 Medium, 1 Low, 2 Info | Solana    | confidential |
+## Recent Private Audit Highlights
+
+| Project | Date     | Findings                | Ecosystem | Report       | Description              |
+| ------- | -------- | ----------------------- | --------- | ------------ | ------------------------ |
+| Melee   | May 2025 | 5 Medium, 1 Low, 2 Info | Solana    | Confidential | DeFi / Prediction Market |
 
 # Competitive Audits
 
