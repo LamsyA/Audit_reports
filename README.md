@@ -11,10 +11,10 @@ I am a professional Web3 security researcher. My technical proficiency spans **S
 
 ## Recent Private Audit Highlights
 
-| Project    | Date     | Findings                            | Ecosystem | Report                                                                          | Description              |
-| ---------- | -------- | ----------------------------------- | --------- | ------------------------------------------------------------------------------- | ------------------------ |
-| **svmgov** | Oct 2025 | 3 Critical, 5 High, 2 Medium, 1 Low | Solana    | [📄](https://github.com/3uild-3thos/govcontract/blob/v2-override/Codereview.md) | Governance Protocol      |
-| **Melee**  | May 2025 | 5 Medium, 1 Low, 2 Info             | Solana    | [📄](./reports/Melee-Audit.pdf)                                                 | DeFi / Prediction Market |
+| Project    | Date     | Findings                            | Ecosystem | Report                                                                                                       | Description              |
+| ---------- | -------- | ----------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| **svmgov** | Oct 2025 | 3 Critical, 5 High, 2 Medium, 1 Low | Solana    | [📄](https://github.com/3uild-3thos/govcontract/blob/fc8aefefbdd3d990a9e697c8f30dc36b3008f12f/Codereview.md) | Governance Protocol      |
+| **Melee**  | May 2025 | 5 Medium, 1 Low, 2 Info             | Solana    | [📄](./reports/Melee-Audit.pdf)                                                                              | DeFi / Prediction Market |
 
 ---
 
